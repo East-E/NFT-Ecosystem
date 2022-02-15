@@ -8,6 +8,7 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
     - [Valuation and Appraisal](#valuation-and-appraisal)
     - [NFT-Focused DAOs](#nft-focused-daos)
+    - [Virtual Worlds](#virtual-worlds)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -94,4 +95,15 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://whale.me/  
 - *Blackpool*: BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
     -   https://blackpool.finance/
-
+# Virtual Worlds
+- *Decentraland*: Create, explore and trade in the first-ever virtual world owned by its users
+    - https://decentraland.org/
+- *The Sandbox*: The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain.
+    - https://www.sandbox.game/en/
+- *NFT Worlds*: 10,000 virtual worlds, living on the Ethereum blockchain.
+    -  https://www.nftworlds.com/ 
+- *Cryptovoxels*: Cryptovoxels is a virtual world and metaverse, powered by the Ethereum blockchain. 
+    - https://www.cryptovoxels.com/
+- *Somnium Space*: 
+    -  https://somniumspace.com/  
+# Wallets
