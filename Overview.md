@@ -10,6 +10,8 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - [NFT-Focused DAOs](#nft-focused-daos)
     - [Virtual Worlds](#virtual-worlds)
     - [Wallets](#wallets)
+    - [Lending and Rentals](#lending-and-rentals)
+    - [Marketplace Aggregators](#marketplace-aggregators)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -96,6 +98,12 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://whale.me/  
 - *Blackpool*: BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
     -   https://blackpool.finance/
+- FloorDAO: HELLO DEFI, MEET NFTS🤝 
+    -   https://floor.xyz/
+- GringottsDAO: NFTfi Underwriting Collective
+    - https://gringottsdao.eth.link/
+- MuseDAO: NFT venture builder owned by the community
+    - https://musedao.io/
 # Virtual Worlds
 - *Decentraland*: Create, explore and trade in the first-ever virtual world owned by its users
     - https://decentraland.org/
@@ -120,3 +128,21 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://trustwallet.com/
 - *Rainbow*: Explore the new world of Ethereum
     -   https://rainbow.me/
+# Lending and Rentals
+- NFTfi: Use the NFTs you own to access the liquidity you need
+    - https://www.nftfi.com/
+- Pawn.fi: Put Your NFTs to Work.
+    - https://www.arcade.xyz/
+- Jpeg'd: NFDPs (non-fungible debt positions)
+    - https://medium.com/@jpegd/introducing-jpegd-defi-meets-nfts-77e28636c9ea
+- Drops: Instant loans for JPEGs, metaverse assets and financial NFTs.
+    - https://drops.co/
+- Oiler: Flash-Owned NFTs
+    - https://www.oiler.network/
+- ReNFT: Lend and Rent NFTs
+    - https://www.renft.io/  
+# Marketplace Aggregators
+- Genie: Batch buy NFTs across all major marketplaces in a single transaction to save time and gas.
+    - https://www.genie.xyz/
+- Gem: Discover & buy NFTs across all marketplaces
+    - https://www.gem.xyz/
