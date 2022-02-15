@@ -1,5 +1,5 @@
-# NFT-Ecosystem
-Curated list of NFT protocols, projects, and notable accounts. 
+# NFT-Ecosystem 👾 
+Curated list of NFT protocols, projects, and notable accounts. Create and Contribute - and get added. 
 
 # Protocols
 * Reservoir: Build NFT apps powered by liquidity
