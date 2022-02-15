@@ -9,6 +9,7 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - [Valuation and Appraisal](#valuation-and-appraisal)
     - [NFT-Focused DAOs](#nft-focused-daos)
     - [Virtual Worlds](#virtual-worlds)
+    - [Wallets](#wallets)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -107,3 +108,15 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
 - *Somnium Space*: 
     -  https://somniumspace.com/  
 # Wallets
+- *Metamask*: A crypto wallet & gateway to blockchain apps
+    - https://metamask.io/
+- *Blockto*: You can explore this new world hassle-free with the guidance and the friendly user experience provided by Blocto.
+    - https://blocto.portto.io/en/ 
+- *Enjin Wallet*: A simple way to manage your NFTs and crypto
+    - https://enjin.io/products/wallet
+- *Lumi Wallet*: Non-custodial crypto wallet for BTC, ETH, DOGE, EOS, BCH, ERC-20 and +1200 other coins.
+    - https://lumiwallet.com/
+- *Trust Wallet*: The most trusted & secure crypto wallet
+    - https://trustwallet.com/
+- *Rainbow*: Explore the new world of Ethereum
+    -   https://rainbow.me/
