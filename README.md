@@ -4,6 +4,8 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the Ethere
 
 - [Curated NFT-Ecosystem](#curated-nft-ecosystem)
     - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
+    - [General Issuance and Marketplaces](#general-issuance-and-marketplaces)
+    - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -18,7 +20,7 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the Ethere
     - https://nft20.io/
 - *Fractional*: Buy, sell and mint fractions of NFTs
     - https://fractional.art/
-# General Issuance + Marketplaces
+# General Issuance and Marketplaces
 - *OpenSea*: The largest NFT marketplace
     -  https://opensea.io/
 - *Rarible*: Create, sell or collect digital items secured with blockchain
@@ -33,6 +35,26 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the Ethere
     - https://www.mintbase.io/
 - *Manifold*: Manifold enables web3 creators to have true creative ownership, preserve on-chain provenance, and interoperate with all major NFT marketplaces.
     - https://www.manifold.xyz/
-
+# Specialized Issuance and Marketplaces
+- *SuperRare*: Buy and sell NFTs from the world’s top artists
+    - https://superrare.com/
+- *Foundation*: Foundation is a creative playground for artists, curators and collectors to experience the new creative economy.
+    -  https://foundation.app/
+- *Makersplace*: Create, sell and collect truly rare digital artworks. Powered by blockchain. 
+    - https://makersplace.com/
+- *Async Art*: Create and Collect Dynamic, Interactive NFTs. 
+    - https://async.art/
+- *NiftyGateway*: Premier marketplace to buy, sell & store your digital art.
+    - https://niftygateway.com/ 
+- *Known Origin*: Discover rare digital art and collect NFTs. 
+    - https://knownorigin.io/
+- *Art Blocks*: Generative Art on the Blockchain
+    - https://www.artblocks.io/   
+- *Quantum NFT*: Quantum Curated features the world's finest photography collections, carefully curated by our team of experts.
+    - https://quantum.art/
+- *Kolectiv*: Kolectiv is the home of the biggest drops from the world's leading NFT artists.
+    - https://kolectiv.gg/
+- *Nameless*: Nameless empowers brands and enterprises to launch and fully manage their own custom NFT projects.
+    - https://www.nameless.io/
     
 
