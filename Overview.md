@@ -1,12 +1,13 @@
 # Curated NFT-Ecosystem
-Curated list of NFT protocols, projects, and notable accounts acrosss the ecosystem. Contributions welcome! 👾 👾 👾 
+Curated list of NFT protocols, projects, and notable accounts acrosss the ecosystem. Contributions welcome!
 
 
-- [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🦧
+- [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🤖
     - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [General Issuance and Marketplaces](#general-issuance-and-marketplaces)
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
     - [Valuation and Appraisal](#valuation-and-appraisal)
+    - [NFT-Focused DAOs](#nft-focused-daos)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -64,4 +65,33 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://nftbank.ai/
 - *Zapper*: Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
     - https://zapper.fi/
+# NFT-Focused DAOs
+- *Flamingo*: FLAMINGO aims to support, purchase, archive, collect, and potentially tokenize important pieces of this ecosystem.
+    -   https://flamingodao.xyz/
+- *The LAO*: A DAO SUPPORTING THE BLOCKCHAIN ECOSYSTEM
+    -   https://www.thelao.io/
+- *FingerprintsDAO*: We curate and collect artworks that use smart contracts in exceptionally creative ways.
+    -   https://fingerprintsdao.xyz/
+- *PleasrDAO*: Acquiring culturally significant pieces with a charitable twist. 
+    -  https://pleasr.org/
+- *NounsDAO*: Nouns are an experimental attempt to improve the formation of on-chain avatar communities. 
+    - https://nouns.wtf/
+- *PartyDAO*: PartyDAO aims to be something more fun: we are a fully decentralized organization that actually ships products.
+    - https://www.partybid.app/
+- *SharkDAO*: SharkDAO started as a group of Internet strangers interested in pooling together resources to acquire Nouns, a novel experiment in generative, code-driven art.
+    - https://sharks.wtf/
+- *SquiggleDAO*: A DAO Foundry for on-chain generative art. 
+    - https://squiggledao.com/
+- *NeonDAO*: A collective buildling out the metaverse.
+    - https://neondao.xyz/
+- *JennyDAO*: The First Metaverse DAO and Social Token on Unicly
+    - https://jennynft.io/
+- *MeebitsDAO*: MeebitsDAO was born out of a single ambition: to create a vehicle for funding innovative projects that will develop the ecosystem around Meebits.
+    -  https://www.meebitsdao.world/ 
+- *EmergenceDAO*: A collection born out of the fire, created and curated by the community.
+    - https://twitter.com/emergencedao
+- *Whale Community*:$WHALE IS A SOCIAL CURRENCY THAT IS BACKED BY TANGIBLE AND RARE NFT ASSETS WHILE EMBODYING SCARCITY THROUGH DEFINITIVE LIMITED ISSUANCE. 
+    - https://whale.me/  
+- *Blackpool*: BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+    -   https://blackpool.finance/
 
