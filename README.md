@@ -1,11 +1,12 @@
 # Curated NFT-Ecosystem
-Curated list of NFT protocols, projects, and notable accounts acrosss the Ethereum ecosystem. Contributions welcome! 👾 👾 👾 
+Curated list of NFT protocols, projects, and notable accounts acrosss the ecosystem. Contributions welcome! 👾 👾 👾 
 
 
-- [Curated NFT-Ecosystem](#curated-nft-ecosystem)
+- [Curated NFT-Ecosystem](#curated-nft-ecosystem) ⭐
     - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [General Issuance and Marketplaces](#general-issuance-and-marketplaces)
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
+    - [Valuation and Appraisal](#valuation-and-appraisal)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -56,5 +57,11 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the Ethere
     - https://kolectiv.gg/
 - *Nameless*: Nameless empowers brands and enterprises to launch and fully manage their own custom NFT projects.
     - https://www.nameless.io/
-    
+# Valuation and Appraisal
+- *Upshot*: Upshot provides deep insight into NFT markets and unlocks a wave of exotic new DeFi possibilities.
+    - https://app.upshot.xyz/  
+- *NFTBank*: Make NFT Portfolio Management Smart
+    - https://nftbank.ai/
+- *Zapper*: Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
+    - https://zapper.fi/
 
