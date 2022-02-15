@@ -2,7 +2,7 @@
 Curated list of NFT protocols, projects, and notable accounts acrosss the ecosystem. Contributions welcome! 👾 👾 👾 
 
 
-- [Curated NFT-Ecosystem](#curated-nft-ecosystem) ⭐
+- [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🦧
     - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [General Issuance and Marketplaces](#general-issuance-and-marketplaces)
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
