@@ -90,7 +90,7 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     -  https://www.meebitsdao.world/ 
 - *EmergenceDAO*: A collection born out of the fire, created and curated by the community.
     - https://twitter.com/emergencedao
-- *Whale Community*:$WHALE IS A SOCIAL CURRENCY THAT IS BACKED BY TANGIBLE AND RARE NFT ASSETS WHILE EMBODYING SCARCITY THROUGH DEFINITIVE LIMITED ISSUANCE. 
+- *Whale Community*: $WHALE IS A SOCIAL CURRENCY THAT IS BACKED BY TANGIBLE AND RARE NFT ASSETS WHILE EMBODYING SCARCITY THROUGH DEFINITIVE LIMITED ISSUANCE. 
     - https://whale.me/  
 - *Blackpool*: BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
     -   https://blackpool.finance/
