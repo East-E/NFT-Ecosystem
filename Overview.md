@@ -168,6 +168,10 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - https://www.genie.xyz/
 - *Gem*: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
+# P2P Trades
+- *SudoSwap*
+- *SwapKiki*
+- *NFTtrader*
 # Interfaces and Curation
 - *JPG Protocol*: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
     - https://jpg.space/
@@ -236,8 +240,66 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - https://zed.run/
 - *MLB Champions*: The FIRST Major League Baseball™ Crypto NFTs!
     - https://www.mlbc.app/
-# Gaming
+# Gaming and Entertainment
+- Axie Infinity
+- Illuvium
+- Enjin
+- Xconsoles
+- Gods Unchained
+- AaveGotchi
+- Metakey
+- Loot
+- Treeverse
+- Parralell
+- Pixel Vault
+- Yield Guild
 # Music
+- Audius
+- Soundmint
+- Soundxyz
+- Catalog 
+- Royal
+- Water & Music
+- Arpeggi Labs
+- Beat Foundry
+# Media
+- TokenSmart Newsletter
+- Metaversal Newsletter
+- https://future.a16z.com/nft-canon/
+- https://future.a16z.com/nft-canon/
+- https://www.matthewball.vc/the-metaverse-primer
+- https://atelier.net/virtual-economy/
+- https://www.notboring.co/p/the-dao-of-daos
+- https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa
+- https://hackmd.io/@nftstory/nft101
+- https://twitter.com/takenstheorem/status/1493069229289086976
+- https://twitter.com/john_c_palmer/status/1490456389885566976
+- https://twitter.com/punk6529/status/1490283401814982664
+- https://twitter.com/galaxyRTK/status/1490216992393117699
+- https://twitter.com/cdixon/status/1490057922843267076
+- https://twitter.com/_Dave__White_/status/1445787515848253455
+- https://twitter.com/VitalikButerin/status/1486375000793776131
+- https://twitter.com/john_c_palmer/status/1485696543277690887
+- https://twitter.com/boredGenius/status/1483894817788608513
+- https://twitter.com/NateAlexNFT/status/1482056975412346881
+- https://twitter.com/DCLBlogger/status/1480867111614529539
+- https://twitter.com/Nifty_Table/status/1478048712106651652
+- https://twitter.com/peruggia_v/status/1370258347341934593
+- https://twitter.com/richardchen39/status/1475464893923053572
+- https://twitter.com/batsoupyum/status/1473000917720920068
+- https://twitter.com/artnet/status/1472671289450151939
+- https://twitter.com/CozomoMedici/status/1469107086772641796
+- https://twitter.com/0xtaetaehoho/status/1466053494666838017
+- https://twitter.com/richerd/status/1460651255542337541
+- https://twitter.com/sershokunin/status/1460262841534058496
+- https://twitter.com/naval/status/1459751026253176835
+- https://twitter.com/sershokunin/status/1450869822305210369
+- https://twitter.com/punk6529/status/1443921334837338114
+- https://twitter.com/sershokunin/status/1439773720499916800
+- https://twitter.com/gmoneyNFT/status/1418374766264680454
+- https://twitter.com/punk4156/status/1418260705212604430
+- https://twitter.com/cdixon/status/1416078680854450181
+- https://twitter.com/punk4156/status/1391453916898996226
 # Storage 
 - *IPFS*: A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
     -  https://ipfs.io/  
@@ -272,4 +334,4 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
 - *Cosmos*
 - *Polkadot*
 - *Terra*
-# Media
+
