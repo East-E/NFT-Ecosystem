@@ -15,6 +15,15 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - [Interfaces and Curation](#interfaces-and-curation)
     - [Physical Displays](#physical-displays)
     - [Utility](#utility)
+    - [Data Analysis](#data-analysis)
+    - [Publishing](#publishing)
+    - [Sports](#sports)
+    - [Gaming](#gaming)
+    - [Music](#music)
+    - [Staorage](#storage)
+    - [Layer 2s and Sidechains](#layer-2s-and-sidechains)
+    - [Layer 1s](#layer-1s)
+    - [Media](#media)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -196,3 +205,71 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - https://unstoppabledomains.com/
 - *Urbit*: Urbit reimagines the internet as a peer-to-peer network designed to stay that way. 
     - https://urbit.org/
+# Data Analysis
+- *Dune Analytics*: With Dune Analytics anyone can create SQL queries on blockchain data for free.
+    - https://dune.xyz/browse/dashboards
+- *Cryptoslam*: An NFT industry data aggregator backed by Mark Cuban.
+    - https://cryptoslam.io/
+- *Nonfungible.com*: The world's largest NFT data resource.
+    - https://nonfungible.com/
+- *DappRadar*: The World’s Dapp Store.
+    - https://dappradar.com/
+- *Defillama*: DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). 
+    - https://defillama.com/nfts 
+- *Flips*: Collections sorted by top 24-hour delistings, floor increases, and volume increases
+    - https://www.flips.finance/
+- *NFTgo*: The best all-in-one NFT analytics platform
+    - https://nftgo.io/
+- *WeMeta*: Your Metaverse marketplace.
+    - https://wemeta.world/
+# Publishing
+- *Mirror*: The essential web3 toolkit for sharing and funding anything.
+    - https://mirror.xyz/
+# Sports
+- *NBA Topshot*: Now, own basketball's greatest Moments with NBA Top Shot.
+    - https://nbatopshot.com/
+- *F1 DeltaTime*: The game centres around the collection and trading of unique Cars, Drivers and Components.
+    - https://www.f1deltatime.com/
+- *Sorare*: Experience football like never before, bringing fantasy to reality.
+    - https://sorare.com/
+- *Zed Run*: The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.
+    - https://zed.run/
+- *MLB Champions*: The FIRST Major League Baseball™ Crypto NFTs!
+    - https://www.mlbc.app/
+# Gaming
+# Music
+# Storage 
+- *IPFS*: A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
+    -  https://ipfs.io/  
+- *Arweave*: Arweave enables you to store documents and applications forever.
+    - https://www.arweave.org/
+- *Filecoin*: Filecoin is making the web more secure and efficient with a decentralized data storage marketplace, protocol, and cryptocurrency.
+    - https://filecoin.io/
+- *Pinata*: The cloud wasn't built for this. Pinata was. Managing your NFT media just got easier.
+    - https://www.pinata.cloud/
+- *Filebase*: Encrypted and Geo-redundant object storage at a fraction of the price. What's not to love?
+    - https://filebase.com/
+# Layer 2s and Sidechains
+- *Immutable*: Experience zero gas fees, instant trades, and carbon neutral NFTs for marketplaces, games, and applications without compromise. 
+    - https://www.immutable.com/
+- *Polygon*: Polygon solves pain points associated with Blockchains, like high gas fees and slow speeds, without sacrificing on security. 
+    - https://www.polygon.technology/
+- *Ronin*: Ronin unlocks hyper-growth for NFT games
+    - https://explorer.roninchain.com/
+- *Starkware*: Bringing scalability, security, and privacy to a blockchain near you
+    - https://starkware.co/
+- *Arbitrum*: The ideal scaling solution for many DeFi apps Arbitrum Rollup can scale any Ethereum contract.
+    - https://arbitrum.io/
+- *Optimism*: The Ethereum you know and love, at lower cost and lightning speed
+    - https://www.optimism.io/
+# Layer 1s
+- *Ethereum*
+- *Flow*
+- *Wax*
+- *Solana*
+- *Tezos*
+- *Avalanche*
+- *Cosmos*
+- *Polkadot*
+- *Terra*
+# Media
