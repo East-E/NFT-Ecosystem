@@ -135,7 +135,7 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://www.nftfi.com/
 - Pawn.fi: Put Your NFTs to Work.
     - https://www.arcade.xyz/
-- Jpeg'd: NFDPs (non-fungible debt positions)
+- Jpeg'd: NFDPs (non-fungible debt positions).
     - https://medium.com/@jpegd/introducing-jpegd-defi-meets-nfts-77e28636c9ea
 - Drops: Instant loans for JPEGs, metaverse assets and financial NFTs.
     - https://drops.co/
@@ -149,9 +149,12 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
 - Gem: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
 # Interfaces and Curation
-- JPG Protocol
-- Rabbit Hole
-- Zerion
+- JPG Protocol: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
+    - https://jpg.space/
+- Rabbit Hole: Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
+    - https://rabbithole.gg/
+- Poap: POAP is a new way of keeping a reliable record of life experiences.
+    -   https://poap.xyz/ 
 - Gallery
 - Audius
 - Zapper.Fi
