@@ -1,5 +1,5 @@
 # Curated NFT-Ecosystem
-Curated list of NFT protocols, projects, and notable accounts acrosss the ecosystem. Contributions welcome!
+Curated list of NFT protocols and infrastructure that are supporting the ecosystem. Contributions welcome!
 
 
 - [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🤖
@@ -12,6 +12,9 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - [Wallets](#wallets)
     - [Lending and Rentals](#lending-and-rentals)
     - [Marketplace Aggregators](#marketplace-aggregators)
+    - [Interfaces and Curation](#interfaces-and-curation)
+    - [Physical Displays](#physical-displays)
+    - [Utility](#utility)
 
 # NFT Liquidity and Fractionalization
 - *Reservoir*: Build NFT apps powered by liquidity
@@ -33,6 +36,8 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     -  https://opensea.io/
 - *Rarible*: Create, sell or collect digital items secured with blockchain
     - https://rarible.com/
+- *Zora*: The open protocol to buy, sell and curate NFTs on Ethereum.
+    - https://zora.co/
 - *Mintable*: The best digital items marketplace to sell blockchain items.
     - https://mintable.app/
 - *Universe XYZ*: Launch your own community-driven NFT universe baked with social tools, media services, and distribution - underpinned by the native $XYZ token.
@@ -62,6 +67,10 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://quantum.art/
 - *Kolectiv*: Kolectiv is the home of the biggest drops from the world's leading NFT artists.
     - https://kolectiv.gg/
+- *Meme*: Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.
+    - https://dontbuymeme.com/
+- *NFTboxes*: NFTs created by talented artists and put together by well-known NFT collector, Pranksy.
+    - https://www.nftboxes.io/
 - *Nameless*: Nameless empowers brands and enterprises to launch and fully manage their own custom NFT projects.
     - https://www.nameless.io/
 # Valuation and Appraisal
@@ -100,12 +109,14 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://whale.me/  
 - *Blackpool*: BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
     -   https://blackpool.finance/
-- FloorDAO: HELLO DEFI, MEET NFTS🤝 
+- *FloorDAO*: HELLO DEFI, MEET NFTS🤝 
     -   https://floor.xyz/
-- GringottsDAO: NFTfi Underwriting Collective
+- *GringottsDAO*: NFTfi Underwriting Collective
     - https://gringottsdao.eth.link/
-- MuseDAO: NFT venture builder owned by the community
+- *MuseDAO*: NFT venture builder owned by the community
     - https://musedao.io/
+- *EnterDAO*: EnterDAO is a decentralized autonomous organization (DAO) building products to enable new markets within the Web3 metaverse economy.
+    - https://enterdao.xyz/
 # Virtual Worlds
 - *Decentraland*: Create, explore and trade in the first-ever virtual world owned by its users
     - https://decentraland.org/
@@ -131,35 +142,57 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
 - *Rainbow*: Explore the new world of Ethereum
     -   https://rainbow.me/
 # Lending and Rentals
-- NFTfi: Use the NFTs you own to access the liquidity you need
+- *NFTfi*: Use the NFTs you own to access the liquidity you need
     - https://www.nftfi.com/
-- Pawn.fi: Put Your NFTs to Work.
+- *Arcade*: Put Your NFTs to Work.
     - https://www.arcade.xyz/
-- Jpeg'd: NFDPs (non-fungible debt positions).
+- *Jpeg'd*: NFDPs (non-fungible debt positions).
     - https://medium.com/@jpegd/introducing-jpegd-defi-meets-nfts-77e28636c9ea
-- Drops: Instant loans for JPEGs, metaverse assets and financial NFTs.
+- *Drops*: Instant loans for JPEGs, metaverse assets and financial NFTs.
     - https://drops.co/
-- Oiler: Flash-Owned NFTs
+- *Oiler*: Flash-Owned NFTs
     - https://www.oiler.network/
-- ReNFT: Lend and Rent NFTs
+- *ReNFT*: Lend and Rent NFTs
     - https://www.renft.io/  
 # Marketplace Aggregators
-- Genie: Batch buy NFTs across all major marketplaces in a single transaction to save time and gas.
+- *Genie*: Batch buy NFTs across all major marketplaces in a single transaction to save time and gas.
     - https://www.genie.xyz/
-- Gem: Discover & buy NFTs across all marketplaces
+- *Gem*: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
 # Interfaces and Curation
-- JPG Protocol: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
+- *JPG Protocol*: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
     - https://jpg.space/
-- Rabbit Hole: Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
+- *Rabbit Hole*: Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
     - https://rabbithole.gg/
-- Poap: POAP is a new way of keeping a reliable record of life experiences.
+- *Poap*: POAP is a new way of keeping a reliable record of life experiences.
     -   https://poap.xyz/ 
-- Gallery
-- Audius
-- Zapper.Fi
-- NFTBank
-- Showtime
-- Cent
-- OnCyber
-- Rara Social
+- *Gallery*: Show your collection to the world.
+    - https://gallery.so/
+- *Zapper*: Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
+    - https://zapper.fi/
+- *NFTBank*: Make NFT Portfolio Management Smart
+    - https://nftbank.ai/
+- Showtime: Discover and showcase crypto art.
+    - https://showtime.io/
+- *Cent*: Cent is a place for the curious + creative. Build audience + distribute works as NFTs @ app.bio.
+    - https://cent.app.bio/
+- *OnCyber*: The easiest way for artists and collectors to show their NFTs in fully immersive experiences, for free.
+    -  https://oncyber.io/
+- *Rara Social*: The NFT RA!CE is a like-to-earn competition to discover the best NFTs according to fans, not price.
+    - https://rara.social/
+- *MOCA*: At its core, the Museum of Crypto Art (M○C△) challenges, creates conflict, provokes.
+    - https://app.museumofcryptoart.com/collection/community-collection
+# Physical Displays
+- *Meural*: The digital canvas that helps you #ElevateYourArt 🎨
+    - https://www.netgear.com/home/digital-art-canvas/
+- *Infinite Objects*: We Print Video. Explore our collections of Video Prints and discover a new way to own and live with art that moves.
+    - https://infiniteobjects.com/
+- *TokenFrame*: Bring your NFT art to life.
+    - https://tokenframe.com/
+# Utility
+- *Ethereum Naming Service*: Decentralised naming for wallets, websites, & more.
+    - https://ens.domains/
+- *Unstoppable Domains*: NFT Domains. No Renewal Fees Ever.
+    - https://unstoppabledomains.com/
+- *Urbit*: Urbit reimagines the internet as a peer-to-peer network designed to stay that way. 
+    - https://urbit.org/
