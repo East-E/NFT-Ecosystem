@@ -12,13 +12,14 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - [Wallets](#wallets)
     - [Lending and Rentals](#lending-and-rentals)
     - [Marketplace Aggregators](#marketplace-aggregators)
+    - [P2P Swaps](#p2p-swaps)
     - [Interfaces and Curation](#interfaces-and-curation)
     - [Physical Displays](#physical-displays)
     - [Utility](#utility)
     - [Data Analysis](#data-analysis)
     - [Publishing](#publishing)
     - [Sports](#sports)
-    - [Gaming](#gaming)
+    - [Gaming and Entertainment](#gaming-and-entertainment)
     - [Music](#music)
     - [Staorage](#storage)
     - [Layer 2s and Sidechains](#layer-2s-and-sidechains)
@@ -304,43 +305,45 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
 - *Beat Foundry*: Beat Foundry is a platform for releasing entirely on-chain, generative Music NFTs in a format that transcends the artist’s creative vision into the hands of the collectors. 
     - https://beatfoundry.xyz/
 # Media
-- TokenSmart Newsletter
-- Metaversal Newsletter
-- [Twitter Thread](https://future.a16z.com/nft-canon/)
-- https://future.a16z.com/nft-canon/
-- https://www.matthewball.vc/the-metaverse-primer
-- https://atelier.net/virtual-economy/
-- https://www.notboring.co/p/the-dao-of-daos
-- https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa
-- https://hackmd.io/@nftstory/nft101
-- https://twitter.com/takenstheorem/status/1493069229289086976
-- https://twitter.com/john_c_palmer/status/1490456389885566976
-- https://twitter.com/punk6529/status/1490283401814982664
-- https://twitter.com/galaxyRTK/status/1490216992393117699
-- https://twitter.com/cdixon/status/1490057922843267076
-- https://twitter.com/_Dave__White_/status/1445787515848253455
-- https://twitter.com/VitalikButerin/status/1486375000793776131
-- https://twitter.com/john_c_palmer/status/1485696543277690887
-- https://twitter.com/boredGenius/status/1483894817788608513
-- https://twitter.com/NateAlexNFT/status/1482056975412346881
-- https://twitter.com/DCLBlogger/status/1480867111614529539
-- https://twitter.com/Nifty_Table/status/1478048712106651652
-- https://twitter.com/peruggia_v/status/1370258347341934593
-- https://twitter.com/richardchen39/status/1475464893923053572
-- https://twitter.com/batsoupyum/status/1473000917720920068
-- https://twitter.com/artnet/status/1472671289450151939
-- https://twitter.com/CozomoMedici/status/1469107086772641796
-- https://twitter.com/0xtaetaehoho/status/1466053494666838017
-- https://twitter.com/richerd/status/1460651255542337541
-- https://twitter.com/sershokunin/status/1460262841534058496
-- https://twitter.com/naval/status/1459751026253176835
-- https://twitter.com/sershokunin/status/1450869822305210369
-- https://twitter.com/punk6529/status/1443921334837338114
-- https://twitter.com/sershokunin/status/1439773720499916800
-- https://twitter.com/gmoneyNFT/status/1418374766264680454
-- https://twitter.com/punk4156/status/1418260705212604430
-- https://twitter.com/cdixon/status/1416078680854450181
-- https://twitter.com/punk4156/status/1391453916898996226
+### Big Brain Stuff
+- [TokenSmart Newsletter](https://tokensmart.co/)
+- [Metaversal Newsletter](https://metaversal.banklesshq.com/)
+- [Zima Red Podcast + Newsletter](https://podcasts.apple.com/us/podcast/zima-red/id1494165748)
+- [NFT Canon](https://future.a16z.com/nft-canon/)
+- [Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
+- [Virtual Economy](https://atelier.net/virtual-economy/)
+- [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos)
+- [Into The Void: Where Crypto Meets The Metaverse](https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa)
+- [NFT101](https://hackmd.io/@nftstory/nft101)
+- [RICKS](https://twitter.com/_Dave__White_/status/1445787515848253455)
+- [Souldbound](https://twitter.com/VitalikButerin/status/1486375000793776131)
+### Useful Tweets
+- [Twitter Post](https://twitter.com/takenstheorem/status/1493069229289086976)
+- [Twitter Thread](https://twitter.com/john_c_palmer/status/1490456389885566976)
+- [Twitter Thread](https://twitter.com/punk6529/status/1490283401814982664)
+- [Twitter Thread](https://twitter.com/galaxyRTK/status/1490216992393117699)
+- [Twitter Thread](https://twitter.com/cdixon/status/1490057922843267076)
+- [Twitter Thread](https://twitter.com/john_c_palmer/status/1485696543277690887)
+- [Twitter Thread](https://twitter.com/boredGenius/status/1483894817788608513)
+- [Twitter Post](https://twitter.com/NateAlexNFT/status/1482056975412346881)
+- [Twitter Post](https://twitter.com/DCLBlogger/status/1480867111614529539)
+- [Twitter Post](https://twitter.com/Nifty_Table/status/1478048712106651652)
+- [Twitter Thread](https://twitter.com/peruggia_v/status/1370258347341934593)
+- [Twitter Post](https://twitter.com/richardchen39/status/1475464893923053572)
+- [Twitter Thread](https://twitter.com/batsoupyum/status/1473000917720920068)
+- [Twitter Thread](https://twitter.com/artnet/status/1472671289450151939)
+- [Twitter Thread](https://twitter.com/CozomoMedici/status/1469107086772641796)
+- [Twitter Thread](https://twitter.com/0xtaetaehoho/status/1466053494666838017)
+- [Twitter Post](https://twitter.com/richerd/status/1460651255542337541)
+- [Twitter Thread](https://twitter.com/sershokunin/status/1460262841534058496)
+- [Twitter Post](https://twitter.com/naval/status/1459751026253176835)
+- [Twitter Thread](https://twitter.com/sershokunin/status/1450869822305210369)
+- [Twitter Thread](https://twitter.com/punk6529/status/1443921334837338114)
+- [Twitter Thread](https://twitter.com/sershokunin/status/1439773720499916800)
+- [Twitter Post](https://twitter.com/gmoneyNFT/status/1418374766264680454)
+- [Twitter Post](https://twitter.com/punk4156/status/1418260705212604430)
+- [Twitter Thread](https://twitter.com/cdixon/status/1416078680854450181)
+- [Twitter Post](https://twitter.com/punk4156/status/1391453916898996226)
 # Storage 
 - *IPFS*: A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
     -  https://ipfs.io/  
