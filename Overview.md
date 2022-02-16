@@ -1,5 +1,5 @@
 # Curated NFT-Ecosystem
-Curated list of NFT protocols and infrastructure that are supporting the ecosystem. Contributions welcome!
+Enjoy a curated list covering some of the major players in the NFT ecosystem. More market segment specific lists are coming soon (ie collectibles, art, etc.). Contributions are welcome!
 
 
 - [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🤖
@@ -74,6 +74,10 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - https://www.artblocks.io/   
 - *Quantum NFT*: Quantum Curated features the world's finest photography collections, carefully curated by our team of experts.
     - https://quantum.art/
+- *CryptoPunks Marketplace*: Buy and Sell CryptoPunks
+    - https://www.larvalabs.com/cryptopunks
+- *Cryptokitties Marketplace*: Buy and Sell Digital Cats
+    - https://www.cryptokitties.co/
 - *Kolectiv*: Kolectiv is the home of the biggest drops from the world's leading NFT artists.
     - https://kolectiv.gg/
 - *Meme*: Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.
@@ -168,10 +172,13 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
     - https://www.genie.xyz/
 - *Gem*: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
-# P2P Trades
-- *SudoSwap*
-- *SwapKiki*
-- *NFTtrader*
+# P2P Swaps
+- *SudoSwap*: Sudoswap is your favorite teleological marketplace with ZERO swap fees.
+    - https://sudoswap.xyz/#/
+- *SwapKiki*: Let's swap NFTs with each other.
+    - https://swap.kiwi/
+- *NFTtrader*: Swap Your NFTs & Crypto Securely and Easily
+    - https://www.nfttrader.io/
 # Interfaces and Curation
 - *JPG Protocol*: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
     - https://jpg.space/
@@ -241,31 +248,65 @@ Curated list of NFT protocols and infrastructure that are supporting the ecosyst
 - *MLB Champions*: The FIRST Major League Baseball™ Crypto NFTs!
     - https://www.mlbc.app/
 # Gaming and Entertainment
-- Axie Infinity
-- Illuvium
-- Enjin
-- Xconsoles
-- Gods Unchained
-- AaveGotchi
-- Metakey
-- Loot
-- Treeverse
-- Parralell
-- Pixel Vault
-- Yield Guild
+- *Sky Mavis*: We're nation-builders.
+    - https://skymavis.com/
+- *Axie Infinity*: 250,000+ Daily active players Axies are fierce creatures that love to battle, build, and hunt for treasure!
+    - https://axieinfinity.com/
+- *Illuvium*: Fight for ETH.
+    - https://www.illuvium.io/
+- *Enjin*: We're building a product ecosystem that will help humanity create advanced virtual economies through the power of blockchain technology.
+    - https://enjin.io/
+- *Xconsoles*: Aiming to become the decentralized Steam
+    - https://www.xconsoles.tv/
+- *Gods Unchained*: THE TRADING CARD GAME THAT PAYS TO PLAY.
+    - https://godsumchained.com/
+- *AaveGotchi*: Each DeFi-powered Aavegotchi is provably rare and verifiably adorable
+    - https://aavegotchi.com/   
+- *Metakey*: The Key to the Metaverse. 
+    - https://themetakey.com/
+- *Loot*: Loot is randomized adventurer gear generated and stored on chain
+    - https://www.lootproject.com/
+- *Treeverse*: Treeverse is a pixel-themed metaverse. We strive to replace social platforms for NFT chatter. and start gamifying the experience. 
+    - https://www.treeverse.net/
+- *Parralell*: Parallel is a Sci-Fi Card Game. 
+    - https://parallel.life/
+- *Pixel Vault*: Building at the crossroad of NFTs, DeFi, and gaming.
+    - https://twitter.com/pixelvault_
+- *Yield Guild*: YGG IS A PLAY-TO-EARN GAMING GUILD, BRINGING PLAYERS TOGETHER TO EARN VIA BLOCKCHAIN-BASED ECONOMIES. 
+    - https://yieldguild.io/
+- *TreasureDAO*: Treasure bridges the growing network of metaverses through an open and composable approach to the convergence of NFTs, DeFi and Gaming.
+    - https://treasure-dao.com/
+- *Bibliotheca DAO*: An open source permissionless gaming ecosystem built on StarkNet; a L2 Zero-Knowledge rollup.
+    - https://bibliothecadao.xyz/
+- *Neon District*: Neon District is a free-to-play cyberpunk role-playing game. 
+    - https://portal.neondistrict.io/
+- *Dark Forest*: Dark Forest, the world's first decentralized real-time strategy game. Built on Ethereum with zkSNARKs.
+    - https://zkga.me/
+- *Star Atlas*: Star Atlas A grand strategy game of space exploration, territorial conquest, political domination, and more.
+    - https://staratlas.com/
+- *Alien Worlds*: Alien Worlds is an NFT Metaverse where you can play with unique digital items (NFTs). 
+    - https://alienworlds.io/
 # Music
-- Audius
-- Soundmint
-- Soundxyz
-- Catalog 
-- Royal
-- Water & Music
-- Arpeggi Labs
-- Beat Foundry
+- *Audius*: Audius is a music streaming and sharing platform that puts power back into the hands of content creators.
+    - https://audius.co/
+- *Soundmint*: Building the platform to create generative music NFTs. Initial collaborations curated by SoundMint team.
+    - https://soundmint.xyz/
+- *Soundxyz*: We’re creating a platform for a more collaborative music movement, built on web3 technology and values.
+    - https://www.sound.xyz/
+- *Catalog*: It's time to free music.
+    - https://beta.catalog.works/
+- *Royal*: OWN YOUR FAVORITE MUSIC.
+    - https://royal.io/
+- *Water & Music*: A newsletter and research DAO building the innovator’s guide to the music business
+    - https://www.waterandmusic.com/
+- *Arpeggi Labs*: Arpeggi Studio is the only on-chain digital audio workstation (DAW).
+    - https://www.arpeggi.io/
+- *Beat Foundry*: Beat Foundry is a platform for releasing entirely on-chain, generative Music NFTs in a format that transcends the artist’s creative vision into the hands of the collectors. 
+    - https://beatfoundry.xyz/
 # Media
 - TokenSmart Newsletter
 - Metaversal Newsletter
-- https://future.a16z.com/nft-canon/
+- [Twitter Thread](https://future.a16z.com/nft-canon/)
 - https://future.a16z.com/nft-canon/
 - https://www.matthewball.vc/the-metaverse-primer
 - https://atelier.net/virtual-economy/
