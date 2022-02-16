@@ -26,6 +26,8 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://nft20.io/
 - *Fractional*: Buy, sell and mint fractions of NFTs
     - https://fractional.art/
+- Circuits of Value: Emblem Vault - an entire wallet inside a Token.
+    - https://circuitsofvalue.com/
 # General Issuance and Marketplaces
 - *OpenSea*: The largest NFT marketplace
     -  https://opensea.io/
@@ -146,3 +148,15 @@ Curated list of NFT protocols, projects, and notable accounts acrosss the ecosys
     - https://www.genie.xyz/
 - Gem: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
+# Interfaces and Curation
+- JPG Protocol
+- Rabbit Hole
+- Zerion
+- Gallery
+- Audius
+- Zapper.Fi
+- NFTBank
+- Showtime
+- Cent
+- OnCyber
+- Rara Social
