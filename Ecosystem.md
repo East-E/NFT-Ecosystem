@@ -381,6 +381,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://trustwallet.com/
 - *Rainbow*: Explore the new world of Ethereum
     -   https://rainbow.me/
+-*Argent*: Buy, earn, stake and trade on Ethereum Layer 2 with low fees & bulletproof security.
+    - https://www.argent.xyz/
 
 
 # Storage 
