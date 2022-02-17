@@ -301,6 +301,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://staratlas.com/
 - *Alien Worlds*: Alien Worlds is an NFT Metaverse where you can play with unique digital items (NFTs). 
     - https://alienworlds.io/
+- *Defi Kingdoms*: Heroes arrive in DeFi Kingdoms to restore the land to its former glory. 
+    - https://defikingdoms.com/
 
 
 # Music
