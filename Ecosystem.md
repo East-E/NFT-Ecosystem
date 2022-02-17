@@ -98,6 +98,10 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://nftbank.ai/
 - *Zapper*: Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
     - https://zapper.fi/
+- *WGMI*: Track valuation of any combination of wallets you own based on project or trait floors.
+    - https://wgmi.io/
+- *icy.tools*: The best way to track your NFT Portfolio's valuation
+    - https://icy.tools/
 
 
 # NFT-Focused DAOs
@@ -242,6 +246,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://nftgo.io/
 - *WeMeta*: Your Metaverse marketplace.
     - https://wemeta.world/
+- *icy.tools*: A better way to discover, track, and analyze NFTs.
+    - https://icy.tools/
 
 
 # Publishing
