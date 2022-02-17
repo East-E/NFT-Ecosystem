@@ -3,13 +3,12 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
 
 
 - [Curated NFT-Ecosystem](#curated-nft-ecosystem) 🤖
-    - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [General Issuance and Marketplaces](#general-issuance-and-marketplaces)
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
+    - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [Valuation and Appraisal](#valuation-and-appraisal)
     - [NFT-Focused DAOs](#nft-focused-daos)
     - [Virtual Worlds](#virtual-worlds)
-    - [Wallets](#wallets)
     - [Lending and Rentals](#lending-and-rentals)
     - [Marketplace Aggregators](#marketplace-aggregators)
     - [P2P Swaps](#p2p-swaps)
@@ -21,30 +20,17 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - [Sports](#sports)
     - [Gaming and Entertainment](#gaming-and-entertainment)
     - [Music](#music)
-    - [Staorage](#storage)
+    - [Media](#media)
+    - [Wallets](#wallets)
+    - [Storage](#storage)
     - [Layer 2s and Sidechains](#layer-2s-and-sidechains)
     - [Layer 1s](#layer-1s)
-    - [Media](#media)
 
-# NFT Liquidity and Fractionalization
-- *Reservoir*: Build NFT apps powered by liquidity
-    - https://reservoirprotocol.github.io/
-- *Charged Particles*: Now, every NFT can contain a digital asset
-    -  https://www.charged.fi/
-- *Unic.ly*: Protocol to combine, fractionalize, and trade NFTs
-    - https://www.unic.ly/
-- *NFTX*: Liquidity protocol for NFTs 
-    - https://nftx.io/
-- *NFT20*: Trade, swap & sell NFTs. The NFT20 protocol offers NFT liquidity pools to help developers build the next generation of NFT apps.
-    - https://nft20.io/
-- *Fractional*: Buy, sell and mint fractions of NFTs
-    - https://fractional.art/
-- Circuits of Value: Emblem Vault - an entire wallet inside a Token.
-    - https://circuitsofvalue.com/
+
 # General Issuance and Marketplaces
-- *OpenSea*: The largest NFT marketplace
+- *OpenSea*: The largest NFT marketplace.
     -  https://opensea.io/
-- *Rarible*: Create, sell or collect digital items secured with blockchain
+- *Rarible*: Create, sell or collect digital items secured with blockchain.
     - https://rarible.com/
 - *Zora*: The open protocol to buy, sell and curate NFTs on Ethereum.
     - https://zora.co/
@@ -58,6 +44,7 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.mintbase.io/
 - *Manifold*: Manifold enables web3 creators to have true creative ownership, preserve on-chain provenance, and interoperate with all major NFT marketplaces.
     - https://www.manifold.xyz/
+
 # Specialized Issuance and Marketplaces
 - *SuperRare*: Buy and sell NFTs from the world’s top artists
     - https://superrare.com/
@@ -87,6 +74,23 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.nftboxes.io/
 - *Nameless*: Nameless empowers brands and enterprises to launch and fully manage their own custom NFT projects.
     - https://www.nameless.io/
+
+# NFT Liquidity and Fractionalization
+- *Reservoir*: Build NFT apps powered by liquidity
+    - https://reservoirprotocol.github.io/
+- *Charged Particles*: Now, every NFT can contain a digital asset
+    -  https://www.charged.fi/
+- *Unic.ly*: Protocol to combine, fractionalize, and trade NFTs
+    - https://www.unic.ly/
+- *NFTX*: Liquidity protocol for NFTs 
+    - https://nftx.io/
+- *NFT20*: Trade, swap & sell NFTs. The NFT20 protocol offers NFT liquidity pools to help developers build the next generation of NFT apps.
+    - https://nft20.io/
+- *Fractional*: Buy, sell and mint fractions of NFTs
+    - https://fractional.art/
+- *Circuits of Value*: Emblem Vault - an entire wallet inside a Token.
+    - https://circuitsofvalue.com/
+
 # Valuation and Appraisal
 - *Upshot*: Upshot provides deep insight into NFT markets and unlocks a wave of exotic new DeFi possibilities.
     - https://app.upshot.xyz/  
@@ -94,6 +98,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://nftbank.ai/
 - *Zapper*: Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
     - https://zapper.fi/
+
+
 # NFT-Focused DAOs
 - *Flamingo*: FLAMINGO aims to support, purchase, archive, collect, and potentially tokenize important pieces of this ecosystem.
     -   https://flamingodao.xyz/
@@ -131,6 +137,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://musedao.io/
 - *EnterDAO*: EnterDAO is a decentralized autonomous organization (DAO) building products to enable new markets within the Web3 metaverse economy.
     - https://enterdao.xyz/
+
+
 # Virtual Worlds
 - *Decentraland*: Create, explore and trade in the first-ever virtual world owned by its users
     - https://decentraland.org/
@@ -142,19 +150,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.cryptovoxels.com/
 - *Somnium Space*: 
     -  https://somniumspace.com/  
-# Wallets
-- *Metamask*: A crypto wallet & gateway to blockchain apps
-    - https://metamask.io/
-- *Blockto*: You can explore this new world hassle-free with the guidance and the friendly user experience provided by Blocto.
-    - https://blocto.portto.io/en/ 
-- *Enjin Wallet*: A simple way to manage your NFTs and crypto
-    - https://enjin.io/products/wallet
-- *Lumi Wallet*: Non-custodial crypto wallet for BTC, ETH, DOGE, EOS, BCH, ERC-20 and +1200 other coins.
-    - https://lumiwallet.com/
-- *Trust Wallet*: The most trusted & secure crypto wallet
-    - https://trustwallet.com/
-- *Rainbow*: Explore the new world of Ethereum
-    -   https://rainbow.me/
+
+   
 # Lending and Rentals
 - *NFTfi*: Use the NFTs you own to access the liquidity you need
     - https://www.nftfi.com/
@@ -168,11 +165,14 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.oiler.network/
 - *ReNFT*: Lend and Rent NFTs
     - https://www.renft.io/  
+
+
 # Marketplace Aggregators
 - *Genie*: Batch buy NFTs across all major marketplaces in a single transaction to save time and gas.
     - https://www.genie.xyz/
 - *Gem*: Discover & buy NFTs across all marketplaces
     - https://www.gem.xyz/
+    
 # P2P Swaps
 - *SudoSwap*: Sudoswap is your favorite teleological marketplace with ZERO swap fees.
     - https://sudoswap.xyz/#/
@@ -180,6 +180,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://swap.kiwi/
 - *NFTtrader*: Swap Your NFTs & Crypto Securely and Easily
     - https://www.nfttrader.io/
+
+
 # Interfaces and Curation
 - *JPG Protocol*: JPG brings together curators, collectors, and creators through a protocol focused on NFT curation. 
     - https://jpg.space/
@@ -203,6 +205,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://rara.social/
 - *MOCA*: At its core, the Museum of Crypto Art (M○C△) challenges, creates conflict, provokes.
     - https://app.museumofcryptoart.com/collection/community-collection
+
+
 # Physical Displays
 - *Meural*: The digital canvas that helps you #ElevateYourArt 🎨
     - https://www.netgear.com/home/digital-art-canvas/
@@ -210,6 +214,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://infiniteobjects.com/
 - *TokenFrame*: Bring your NFT art to life.
     - https://tokenframe.com/
+
+
 # Utility
 - *Ethereum Naming Service*: Decentralised naming for wallets, websites, & more.
     - https://ens.domains/
@@ -217,6 +223,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://unstoppabledomains.com/
 - *Urbit*: Urbit reimagines the internet as a peer-to-peer network designed to stay that way. 
     - https://urbit.org/
+
+
 # Data Analysis
 - *Dune Analytics*: With Dune Analytics anyone can create SQL queries on blockchain data for free.
     - https://dune.xyz/browse/dashboards
@@ -234,9 +242,13 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://nftgo.io/
 - *WeMeta*: Your Metaverse marketplace.
     - https://wemeta.world/
+
+
 # Publishing
 - *Mirror*: The essential web3 toolkit for sharing and funding anything.
     - https://mirror.xyz/
+
+
 # Sports
 - *NBA Topshot*: Now, own basketball's greatest Moments with NBA Top Shot.
     - https://nbatopshot.com/
@@ -248,6 +260,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://zed.run/
 - *MLB Champions*: The FIRST Major League Baseball™ Crypto NFTs!
     - https://www.mlbc.app/
+
+
 # Gaming and Entertainment
 - *Sky Mavis*: We're nation-builders.
     - https://skymavis.com/
@@ -287,6 +301,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://staratlas.com/
 - *Alien Worlds*: Alien Worlds is an NFT Metaverse where you can play with unique digital items (NFTs). 
     - https://alienworlds.io/
+
+
 # Music
 - *Audius*: Audius is a music streaming and sharing platform that puts power back into the hands of content creators.
     - https://audius.co/
@@ -304,7 +320,10 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.arpeggi.io/
 - *Beat Foundry*: Beat Foundry is a platform for releasing entirely on-chain, generative Music NFTs in a format that transcends the artist’s creative vision into the hands of the collectors. 
     - https://beatfoundry.xyz/
+
+
 # Media
+
 ### Big Brain Stuff
 - [TokenSmart Newsletter](https://tokensmart.co/)
 - [Metaversal Newsletter](https://metaversal.banklesshq.com/)
@@ -316,34 +335,52 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
 - [Into The Void: Where Crypto Meets The Metaverse](https://metaversed.net/Into-The-Void-Where-Crypto-Meets-The-Metaverse-263f1ff8c13c455ea472f5689e01acaa)
 - [NFT101](https://hackmd.io/@nftstory/nft101)
 - [RICKS](https://twitter.com/_Dave__White_/status/1445787515848253455)
+- [CRISPS](https://twitter.com/_Dave__White_/status/1486018529962848256?s=20&t=QmFfThpPiyNOyEeOqVCu3A)
 - [Souldbound](https://twitter.com/VitalikButerin/status/1486375000793776131)
+
 ### Useful Tweets
-- [Twitter Post](https://twitter.com/takenstheorem/status/1493069229289086976)
-- [Twitter Thread](https://twitter.com/john_c_palmer/status/1490456389885566976)
-- [Twitter Thread](https://twitter.com/punk6529/status/1490283401814982664)
-- [Twitter Thread](https://twitter.com/galaxyRTK/status/1490216992393117699)
-- [Twitter Thread](https://twitter.com/cdixon/status/1490057922843267076)
-- [Twitter Thread](https://twitter.com/john_c_palmer/status/1485696543277690887)
-- [Twitter Thread](https://twitter.com/boredGenius/status/1483894817788608513)
-- [Twitter Post](https://twitter.com/NateAlexNFT/status/1482056975412346881)
-- [Twitter Post](https://twitter.com/DCLBlogger/status/1480867111614529539)
-- [Twitter Post](https://twitter.com/Nifty_Table/status/1478048712106651652)
-- [Twitter Thread](https://twitter.com/peruggia_v/status/1370258347341934593)
-- [Twitter Post](https://twitter.com/richardchen39/status/1475464893923053572)
-- [Twitter Thread](https://twitter.com/batsoupyum/status/1473000917720920068)
-- [Twitter Thread](https://twitter.com/artnet/status/1472671289450151939)
-- [Twitter Thread](https://twitter.com/CozomoMedici/status/1469107086772641796)
-- [Twitter Thread](https://twitter.com/0xtaetaehoho/status/1466053494666838017)
-- [Twitter Post](https://twitter.com/richerd/status/1460651255542337541)
-- [Twitter Thread](https://twitter.com/sershokunin/status/1460262841534058496)
-- [Twitter Post](https://twitter.com/naval/status/1459751026253176835)
-- [Twitter Thread](https://twitter.com/sershokunin/status/1450869822305210369)
-- [Twitter Thread](https://twitter.com/punk6529/status/1443921334837338114)
-- [Twitter Thread](https://twitter.com/sershokunin/status/1439773720499916800)
-- [Twitter Post](https://twitter.com/gmoneyNFT/status/1418374766264680454)
-- [Twitter Post](https://twitter.com/punk4156/status/1418260705212604430)
-- [Twitter Thread](https://twitter.com/cdixon/status/1416078680854450181)
-- [Twitter Post](https://twitter.com/punk4156/status/1391453916898996226)
+- [Sidecar NFTs](https://twitter.com/takenstheorem/status/1493069229289086976)
+- [Mental Model for NFTs](https://twitter.com/john_c_palmer/status/1490456389885566976)
+- [NFTs are..](https://twitter.com/punk6529/status/1490283401814982664)
+- [P2p2w](https://twitter.com/galaxyRTK/status/1490216992393117699)
+- [Prior to NFTs..](https://twitter.com/cdixon/status/1490057922843267076)
+- [NFTs as JPEGS will not..](https://twitter.com/john_c_palmer/status/1485696543277690887)
+- [Gas optimized staking pool contracts for ERC-20 and ERC-721](https://twitter.com/boredGenius/status/1483894817788608513)
+- [Favorite creative devs](https://twitter.com/NateAlexNFT/status/1482056975412346881)
+- [Monetising metverse land](https://twitter.com/DCLBlogger/status/1480867111614529539)
+- [2021 NFT Year in Review](https://twitter.com/Nifty_Table/status/1478048712106651652)
+- [How I Learned to Stop Worrying and Love the Punks](https://twitter.com/peruggia_v/status/1370258347341934593)
+- [2022 NFT Predictions](https://twitter.com/richardchen39/status/1475464893923053572)
+- [Valuing NFTs](https://twitter.com/batsoupyum/status/1473000917720920068)
+- [Art might actually save the world](https://twitter.com/artnet/status/1472671289450151939)
+- [Valuing High-end NFTs](https://twitter.com/CozomoMedici/status/1469107086772641796)
+- [What happens when NFTs aren't just static things you hold?](https://twitter.com/0xtaetaehoho/status/1466053494666838017)
+- [Crypto, blockchain, web3](https://twitter.com/richerd/status/1460651255542337541)
+- [One of the biggest benefits of web3 is..](https://twitter.com/sershokunin/status/1460262841534058496)
+- [NFTs create a Schelling Point..](https://twitter.com/naval/status/1459751026253176835)
+- [NFT just made obsolete..](https://twitter.com/sershokunin/status/1450869822305210369)
+- [On NFTs 2030](https://twitter.com/punk6529/status/1443921334837338114)
+- [Biggest tech successes come from unlocking frozen assets](https://twitter.com/sershokunin/status/1439773720499916800)
+- [TLDR: Filter out the noise. Buy quality NFT’s](https://twitter.com/gmoneyNFT/status/1418374766264680454)
+- [Provenance over IP, decentralization over centralization](https://twitter.com/punk4156/status/1418260705212604430)
+- [In some sense we will value nfts like PageRank values web pages](https://twitter.com/punk4156/status/1391453916898996226)
+
+
+# Wallets
+- *Metamask*: A crypto wallet & gateway to blockchain apps
+    - https://metamask.io/
+- *Blockto*: You can explore this new world hassle-free with the guidance and the friendly user experience provided by Blocto.
+    - https://blocto.portto.io/en/ 
+- *Enjin Wallet*: A simple way to manage your NFTs and crypto
+    - https://enjin.io/products/wallet
+- *Lumi Wallet*: Non-custodial crypto wallet for BTC, ETH, DOGE, EOS, BCH, ERC-20 and +1200 other coins.
+    - https://lumiwallet.com/
+- *Trust Wallet*: The most trusted & secure crypto wallet
+    - https://trustwallet.com/
+- *Rainbow*: Explore the new world of Ethereum
+    -   https://rainbow.me/
+
+
 # Storage 
 - *IPFS*: A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
     -  https://ipfs.io/  
@@ -355,6 +392,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.pinata.cloud/
 - *Filebase*: Encrypted and Geo-redundant object storage at a fraction of the price. What's not to love?
     - https://filebase.com/
+
+
 # Layer 2s and Sidechains
 - *Immutable*: Experience zero gas fees, instant trades, and carbon neutral NFTs for marketplaces, games, and applications without compromise. 
     - https://www.immutable.com/
@@ -368,14 +407,16 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://arbitrum.io/
 - *Optimism*: The Ethereum you know and love, at lower cost and lightning speed
     - https://www.optimism.io/
+
+
 # Layer 1s
-- *Ethereum*
-- *Flow*
-- *Wax*
-- *Solana*
-- *Tezos*
-- *Avalanche*
-- *Cosmos*
-- *Polkadot*
-- *Terra*
+- [Ethereum](https://ethereum.org/en/)
+- [Flow](https://www.onflow.org/)
+- [Wax](https://on.wax.io/wax-io/)
+- [Solana](https://solana.com/)
+- [Tezos](https://tezos.com/)
+- [Avalanche](https://www.avax.network/)
+- [Cosmos](https://cosmos.network/)
+- [Polkadot](https://polkadot.network/)
+- [Terra](https://www.terra.money/)
 
