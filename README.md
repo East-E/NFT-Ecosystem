@@ -4,4 +4,4 @@ Welcome! Enjoy curated resources across the NFT ecosystem. The list is currently
 ### Check it Out!
 
 - [Contributing.md](https://github.com/East-E/NFT-Ecosystem/blob/main/Contributing.md) - When looking to add to the list make sure to check out this doc.
-- [Overview.md](https://github.com/East-E/NFT-Ecosystem/blob/main/Overview.md) - Curated list of what is powering the NFT ecosystem. 
+- [Major-Players.md](https://github.com/East-E/NFT-Ecosystem/blob/main/Major-Players.md) - Curated list of what is powering the NFT ecosystem. 
