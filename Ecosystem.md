@@ -240,15 +240,16 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://dappradar.com/
 - *Defillama*: DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). 
     - https://defillama.com/nfts 
-- *Flips*: Collections sorted by top 24-hour delistings, floor increases, and volume increases
+- *Flips*: Collections sorted by top 24-hour delistings, floor increases, and volume increases.
     - https://www.flips.finance/
-- *NFTgo*: The best all-in-one NFT analytics platform
+- *NFTgo*: The best all-in-one NFT analytics platform.
     - https://nftgo.io/
 - *WeMeta*: Your Metaverse marketplace.
     - https://wemeta.world/
 - *icy.tools*: A better way to discover, track, and analyze NFTs.
     - https://icy.tools/
-
+- *Rarity Tools*: Dedicated to ranking generative art and collectible NFTs by rarity.
+    - https://rarity.tools/
 
 # Publishing
 - *Mirror*: The essential web3 toolkit for sharing and funding anything.
@@ -389,7 +390,8 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     -   https://rainbow.me/
 - *Argent*: Buy, earn, stake and trade on Ethereum Layer 2 with low fees & bulletproof security.
     - https://www.argent.xyz/
-
+- *Frame*: A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux
+    -  https://frame.sh/
 
 # Storage 
 - *IPFS*: A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.
