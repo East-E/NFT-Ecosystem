@@ -310,6 +310,14 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://alienworlds.io/
 - *Defi Kingdoms*: Heroes arrive in DeFi Kingdoms to restore the land to its former glory. 
     - https://defikingdoms.com/
+- *Ember Sword*: Modern Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles.
+    - https://embersword.com/
+- *Big Time*: Big Time is a multiplayer action RPG where you team up with friends to adventure across time and space.
+    - https://bigtime.gg/
+- *Decimated*: A 3rd person survival role playing game where players can choose to play a variety of roles as a human or cyborg.
+    - https://www.decimated.net/
+- *Aurory*: A play-to-earn desktop game where players are invited to explore a rich and diverse universe.
+    - https://aurory.io/
 
 
 # Music
