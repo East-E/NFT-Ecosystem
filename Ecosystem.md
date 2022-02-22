@@ -18,7 +18,7 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - [Data Analysis](#data-analysis)
     - [Publishing](#publishing)
     - [Sports](#sports)
-    - [Gaming and Entertainment](#gaming-and-entertainment)
+    - [Gaming](#gaming)
     - [Music](#music)
     - [Media](#media)
     - [Wallets](#wallets)
@@ -154,6 +154,10 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.cryptovoxels.com/
 - *Somnium Space*: 
     -  https://somniumspace.com/  
+- *Worldwide Webb*: Worldwide Webb is an interoperable pixel art MMORPG metaverse game giving utility to popular NFT projects.
+    - https://www.webb.game/
+- *Wilder World*: Wilder World is an immersive 5D. Metaverse built on Ethereum, Unreal Engine 5 & ZERO.
+    - https://www.wilderworld.com/
 
    
 # Lending and Rentals
@@ -269,15 +273,37 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.mlbc.app/
 
 
-# Gaming and Entertainment
+# Gaming
+
+### Gaming Guilds
+- *Yield Guild*: YGG IS A PLAY-TO-EARN GAMING GUILD, BRINGING PLAYERS TOGETHER TO EARN VIA BLOCKCHAIN-BASED ECONOMIES. 
+    - https://yieldguild.io/
+- *Blackpool*: BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading.
+    - https://blackpool.finance/
+- *Merit Circle*: We are a decentralized autonomous organization on a mission to revolutionize gaming.
+    - https://meritcircle.io/
+- *GuildFi*: The interconnected ecosystem of games, communities, and NFT assets. 
+    - https://guildfi.com/
+
+### Game Studios
 - *Sky Mavis*: We're nation-builders.
     - https://skymavis.com/
+- *Dapper*: Dapper Labs uses the power of play to deliver blockchain-based experiences and digital collectibles that are made for you and ready for the real world.
+    - https://www.dapperlabs.com/
+-  *Pixel Vault*: Building at the crossroad of NFTs, DeFi, and gaming.
+    - https://twitter.com/pixelvault_
+- *Blockade Games*: Blockade Games is a leading blockchain video game development studio.
+    - https://blockade.games/
+- *Animoca Brands*: Driving digital property rights via NFTs and gaming to build the open metaverse.
+    - https://www.animocabrands.com/
+- *Gala Games*: Making blockchain games you'll actually want to play.
+    - https://app.gala.games/
+
+### Games
 - *Axie Infinity*: 250,000+ Daily active players Axies are fierce creatures that love to battle, build, and hunt for treasure!
     - https://axieinfinity.com/
 - *Illuvium*: Fight for ETH.
     - https://www.illuvium.io/
-- *Enjin*: We're building a product ecosystem that will help humanity create advanced virtual economies through the power of blockchain technology.
-    - https://enjin.io/
 - *Xconsoles*: Aiming to become the decentralized Steam
     - https://www.xconsoles.tv/
 - *Gods Unchained*: THE TRADING CARD GAME THAT PAYS TO PLAY.
@@ -292,12 +318,6 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.treeverse.net/
 - *Parralell*: Parallel is a Sci-Fi Card Game. 
     - https://parallel.life/
-- *Pixel Vault*: Building at the crossroad of NFTs, DeFi, and gaming.
-    - https://twitter.com/pixelvault_
-- *Yield Guild*: YGG IS A PLAY-TO-EARN GAMING GUILD, BRINGING PLAYERS TOGETHER TO EARN VIA BLOCKCHAIN-BASED ECONOMIES. 
-    - https://yieldguild.io/
-- *TreasureDAO*: Treasure bridges the growing network of metaverses through an open and composable approach to the convergence of NFTs, DeFi and Gaming.
-    - https://treasure-dao.com/
 - *Bibliotheca DAO*: An open source permissionless gaming ecosystem built on StarkNet; a L2 Zero-Knowledge rollup.
     - https://bibliothecadao.xyz/
 - *Neon District*: Neon District is a free-to-play cyberpunk role-playing game. 
@@ -319,6 +339,27 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
 - *Aurory*: A play-to-earn desktop game where players are invited to explore a rich and diverse universe.
     - https://aurory.io/
 
+### Gaming Infrastructure
+- *Enjin*: We're building a product ecosystem that will help humanity create advanced virtual economies through the power of blockchain technology.
+    - https://enjin.io/
+- *Forte*: We're building economic technology for video games using blockchain.
+    - https://www.forte.io/
+- *Ultra*: Ultra is the first entertainment platform providing a variety of games industry services under a single roof.
+    - https://ultra.io/
+- *Stardust*: Stardust is the easiest way to create and implement NFTs in your game.
+    - https://www.stardust.gg/  
+
+### Game Starters / Launchpads
+- *Enjinstarter*: THE NEXT-GENERATION LAUNCHPAD FOR Blockchain Games and the Metaverse
+    - https://enjinstarter.com/
+- *Binance Launchpad*: Binance NFT is on the way to becoming the ‘Launchpad’ for top Gamefi and traditional video game companies looking to ‘NFTlize’ their content.
+    - https://www.binance.com/en/blog/all/binance-nft-milestones-the-new-nft-gaming-launchpad-with-over-300000-mystery-boxes-sold-421499824684902547
+- *Polkastarter*: Highly-vetted ideas and teams you can trust.
+    - https://polkastarter.com/
+- *Magic Eden*: A simple process to create and sell your NFTs.
+    - https://magiceden.io/launchpad
+- *TreasureDAO*: Treasure bridges the growing network of metaverses through an open and composable approach to the convergence of NFTs, DeFi and Gaming.
+    - https://treasure-dao.com/
 
 # Music
 - *Audius*: Audius is a music streaming and sharing platform that puts power back into the hands of content creators.
@@ -439,4 +480,7 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
 - [Cosmos](https://cosmos.network/)
 - [Polkadot](https://polkadot.network/)
 - [Terra](https://www.terra.money/)
+- [Harmony](https://www.harmony.one/)
+- [Near](https://near.org/)
+- [Fantom](https://www.fantom.foundation/)
 
