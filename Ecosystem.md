@@ -318,8 +318,6 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://www.treeverse.net/
 - *Parralell*: Parallel is a Sci-Fi Card Game. 
     - https://parallel.life/
-- *Bibliotheca DAO*: An open source permissionless gaming ecosystem built on StarkNet; a L2 Zero-Knowledge rollup.
-    - https://bibliothecadao.xyz/
 - *Neon District*: Neon District is a free-to-play cyberpunk role-playing game. 
     - https://portal.neondistrict.io/
 - *Dark Forest*: Dark Forest, the world's first decentralized real-time strategy game. Built on Ethereum with zkSNARKs.
