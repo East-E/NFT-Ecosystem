@@ -7,6 +7,7 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - [Specialized Issuance and Marketplaces](#specialized-issuance-and-marketplaces)
     - [NFT Liquidity and Fractionalization](#nft-liquidity-and-fractionalization)
     - [Valuation and Appraisal](#valuation-and-appraisal)
+    - [Perps](#perps)
     - [NFT-Focused DAOs](#nft-focused-daos)
     - [Virtual Worlds](#virtual-worlds)
     - [Lending and Rentals](#lending-and-rentals)
@@ -102,6 +103,12 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://wgmi.io/
 - *icy.tools*: The best way to track your NFT Portfolio's valuation
     - https://icy.tools/
+- *Abacus*: Pricing NFTs
+    - https://abacus.wtf/
+
+# Perps 
+- *NFTperps*: Perpetual futures for NFTs
+    -  https://twitter.com/nftperp
 
 
 # NFT-Focused DAOs
