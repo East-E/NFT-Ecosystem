@@ -105,6 +105,9 @@ Enjoy a curated list covering some of the major players in the NFT ecosystem. Mo
     - https://icy.tools/
 - *Abacus*: Pricing NFTs
     - https://abacus.wtf/
+- *DIA*: Highly customisable NFT price provision based on various marketplaces delivered via API or on various chains. 
+    -  https://docs.diadata.org/documentation/api-1/nft-data-api-endpoints#nft-api-endpoints
+    
 
 # Perps 
 - *NFTperps*: Perpetual futures for NFTs
